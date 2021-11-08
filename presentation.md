@@ -19,9 +19,9 @@ title: Intro
 
 ## Who are you?
 
-* Name & Origin
+* Vladimir & Russia
 * Engagement [0-2]
-* Experience
+* Experience C# .NET
 
 ---
 
@@ -36,7 +36,7 @@ title: Intro
 
 ## Theory
 
-* Tools
+* Tools Visual Code, Visua Studio
 * Content
 * Presentation
 * Scripting
